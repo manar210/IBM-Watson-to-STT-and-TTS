@@ -27,8 +27,9 @@ first step : setup watson STT service (https://cloud.ibm.com/catalog)
 ##### and speak, the terminal will recording everything you said.
 
 ## text file & mp3 file 
-here the code that save the speech to text file and the text to mp3 file
+here the code that save the STT to text file and the TTS to mp3 file
 
+![صورة6](https://user-images.githubusercontent.com/61877121/126092636-4ef9a26c-0cde-4164-9560-47b62b6eb3f8.png)
 
 
 
