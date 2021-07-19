@@ -1,6 +1,6 @@
 # IBM-Watson-to-STT-and-TTS
 in this project we will convert speech to text - text to speech by IBM Watson services
-## speech to text
+## speech to text & text to speech
 first step : setup watson STT service (https://cloud.ibm.com/catalog)
 ###### 1.from services choose speech to text 
 
