@@ -12,4 +12,24 @@ first step : setup watson STT service (https://cloud.ibm.com/catalog)
 ###### 5.open up Auto-generated service credentials 
 ###### 6.copy the apikey and the region code 
 
+![صورة5](https://user-images.githubusercontent.com/61877121/126086312-91c81d8d-f3aa-47f2-bc0c-8100ff94f809.png)
+
+## Clone Live STT code
+
+
+###### 1.Go to the cmd and write this commands [git clone https://github.com/IBM/Watson-streaming-stt ]
+###### 2.[code .]
+###### 3.[cd .\watson-streaming-stt]
+###### 4. [pip install -r requirements.txt]
+
+##### then go to speech.cfg.example file and rename it to speech.cfg, also write the Apikey and the region code
+##### finally to run the code , write this command [python transcribe.py -t 20]
+##### and speak, the terminal will recording everything you said.
+
+## text file & mp3 file 
+here the code that save the speech to text file and the text to mp3 file
+
+
+
+
 
